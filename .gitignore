@@ -1,0 +1,9 @@
+.vs/
+packages/
+ProductsApi/bin/
+ProductsApi/obj/
+ProductsApi/ProductsApi.csproj.user
+*.dll
+ProductApi.Tests/bin/
+ProductApi.Tests/obj/
+*.user
